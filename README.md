@@ -5,7 +5,5 @@
 ![Image](./pictures/ffffa.jpg)
 ![psu (61)](https://tva2.sinaimg.cn/large/a048431fly1ggh9j8ptytj20es0m8jsa.jpg)
 <img src="https://tva3.sinaimg.cn/larga048431fgy1ggh1ubb01hj20es0m8jsa.jpg" referrerpolicy="no-referrer">
-![Image](./pictures/)
-![Image](./pictures/)
-![Image](./pictures/)
+
 
