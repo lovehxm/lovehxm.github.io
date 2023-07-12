@@ -13,6 +13,6 @@
 ![Image](./pictures/IMG_0047.JPG)
 ![Image](./pictures/31a34a8bf5dc790cdcf50548d3297986_1_-1_photo.jpg)
 ![Image](./pictures/ffffa.jpg)
-![psu (61)](https://tva2.sinaimg.cn/large/a048431fly1ggh9j8ptytj20es0m8jsa.jpg)
+
 
 
