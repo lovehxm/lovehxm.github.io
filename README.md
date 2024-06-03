@@ -8,6 +8,7 @@
 ## Welcome to GitHub Pages
 
 [my love](https://358347902.qzone.qq.com/?_t_=0.5899575523098284)
+![Image](./pictures/5892bf77849b899c51de2527ba737e99.JPG)
 ![Image](./pictures/IMG_0046.JPG)
 ![Image](./pictures/IMG_0052.JPG)
 ![Image](./pictures/IMG_0047.JPG)
